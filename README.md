@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nilesh Srivastava
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Open Science 
+- 💞️ I’m looking to collaborate on NLP 
 - 📫 Reach me on Nilesh3030srivastava@gmail.com
 
 <!---
